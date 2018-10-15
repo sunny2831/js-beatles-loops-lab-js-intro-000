@@ -14,3 +14,12 @@ while (i < facts.length) {
     }
     return facts
 }
+
+function iLoveTheBeatles(number) {
+ var sentence = []
+  do {
+  sentence.push("I love the Beatles!");
+  number++
+} while (number<15)
+return sentence
+}
