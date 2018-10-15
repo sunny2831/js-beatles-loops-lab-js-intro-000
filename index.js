@@ -12,4 +12,5 @@ while (i < facts.length) {
   facts[i] += "!!!"
   i++
     }
+    return facts
 }
